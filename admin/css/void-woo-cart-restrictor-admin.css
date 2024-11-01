@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.voidcoders-roles-wrapper label {
+    margin-right: 10px;
+    text-transform: capitalize;
+}

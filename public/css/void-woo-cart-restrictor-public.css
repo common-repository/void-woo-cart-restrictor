@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.voidcoders-woo-account-link {
+    background: #f4f4f4;
+    height: 70px;
+    padding-left: 20px;
+    line-height: 70px;
+}
